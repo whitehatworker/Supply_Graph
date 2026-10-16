@@ -1,6 +1,6 @@
 # 00 — Constitution
 
-Status: DRAFT v0.1 — awaiting manager approval (Gate 1)
+Status: APPROVED v1.0 — Gate 1 passed by manager
 Date: 2026-10-16
 Applies to: every human and every AI agent that touches this repo.
 
